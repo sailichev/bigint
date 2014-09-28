@@ -1,4 +1,7 @@
 bigint
 ======
 
-BigInt via logic gate simulation - proof of concept
+BigInt via logic gate simulation - proof of concept.
+----------------------------------------------------
+
+
